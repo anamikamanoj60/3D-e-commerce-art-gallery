@@ -1,0 +1,11 @@
+each folder has to be opened in a separate vs code window to run completely.
+
+about us : run using npx vite, choose a network link instead of local host(u'll get a list of links when u type npx vite)
+
+contact us : same as above
+
+ecommerce react: run using yarn dev
+
+nexusm: 3d art gallery..run using npx vite..make sure product link in the e-commerce website is same as the redirect link given to each link in the paintings inside art gallery. the link eg(http://localhost:3001..blah blah) should be inside paintiginfo.js or paintingdata.js i don't remember...
+
+check the link because there is a chance running on different localhost generates different links.
